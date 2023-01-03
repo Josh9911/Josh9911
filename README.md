@@ -3,7 +3,7 @@ Hi! 👋  Josh here! 🙋🏽‍♂️
 </h1>
 
 <p align="center">
-      I am currently interning as a data analyst @ FoodPanda, Singapore.
+      I am currently interning as a Business Analyst - Commercial (APAC) @ FoodPanda, Singapore.
 </p>
 
 Some facts that nobody asked about me,
