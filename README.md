@@ -3,12 +3,11 @@ Hi! 👋  Josh here! 🙋🏽‍♂️
 </h1>
 
 <p align="center">
-      I am currently interning as a Business Analyst - Commercial (APAC) @ FoodPanda, Singapore.
+      I am currently working at GovTech.
 </p>
 
 Some facts that nobody asked about me,
-- :books: I am currently a penultimate student studying at SUSS, while hustling for some work experiences
-- 💻 I'm self-proclaimed proficient at `python` and `sql`, while taking baby-steps in picking relevant `engineering` skills.
+- 💻 I'm self-proclaimed proficient at web dev, cloud architecture and data enineering, while taking baby-steps in picking relevant `engineering` skills.
 - 🌱 I’m currently learning Docker and trying to practise more ML projects by developing them from scratch 
 
 <p align="center">
